@@ -1,16 +1,12 @@
-# calculator
+# Iphone Calculator 
 
-A new Flutter project.
+Flutter project trying to simulate the iphone calculator on android.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The project tries to simulate the iphone calculator on android devices, using the flutter mobile app framework.
+I also added some other features like an InMemory history of calculations.
 
-A few resources to get you started if this is your first Flutter project:
+## To-Dos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add decimal point and logic to manage decimal point calculations.
