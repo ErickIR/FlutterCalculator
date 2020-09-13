@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:calculator/CalculatorButton.dart';
-import 'package:calculator/NumericButton.dart';
+import 'package:calculator/widgets/CalculatorButton.dart';
+import 'package:calculator/widgets/NumericButton.dart';
 import 'CalculatorRow.dart';
 import 'OperationButton.dart';
 

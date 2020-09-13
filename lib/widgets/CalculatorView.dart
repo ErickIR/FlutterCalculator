@@ -1,5 +1,5 @@
-import 'package:calculator/HistoryList.dart';
-import 'package:calculator/Numpad.dart';
+import 'package:calculator/widgets/HistoryList.dart';
+import 'package:calculator/widgets/Numpad.dart';
 import 'package:calculator/models/history.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
