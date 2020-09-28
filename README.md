@@ -10,3 +10,4 @@ I also added some other features like an InMemory history of calculations.
 ## To-Dos
 
 - Add decimal point and logic to manage decimal point calculations.
+- Use SQLite to store calculations history
